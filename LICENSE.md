@@ -1,4 +1,4 @@
-# 
+# ultimate Trading Bot for Polymarket - API-integration and stop-loss-management is the best Polymarket trading-bot, featuring API-integration and stop-loss-management. Smart, fast,
 
 
 
